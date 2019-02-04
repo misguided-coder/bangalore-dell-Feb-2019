@@ -1,0 +1,7 @@
+Enterprise Application
+1) Client Server Archicture (Web App)
+2) Distributed Archicture (RMI,DCOM,CORBA,DCE)
+3) Messaging Archicture
+4) SOA Archicture
+5) ROA Archicture (Microservices)
+
