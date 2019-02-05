@@ -25,6 +25,8 @@ public class SenderDemo {
 		//channel.basicPublish("AllAboutCars", "cars.suv.german",null, "BMW X1".getBytes("UTF-8"));
 		//channel.basicPublish("AllAboutCars", "cars.suv.german",null, "Audi A5".getBytes("UTF-8"));
 
+		//channel.basicPublish("AllAboutCars", "cars.india.cheap",null, "Maruti Desire".getBytes("UTF-8"));
+		
 		channel.basicPublish("AllAboutCars", "cars.india.cheap",null, "Maruti Desire".getBytes("UTF-8"));
 
 		System.out.println("Done");
